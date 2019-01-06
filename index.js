@@ -1,5 +1,5 @@
-import express from "express";
-import cronjob from "node-cron";
+const express = require("express");
+const cronjob = require("node-cron");
 
 app = express();
 
