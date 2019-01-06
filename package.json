@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-cronjob-boilerplate",
+  "version": "1.0.0",
+  "description": "nodejs cronjob boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orgmatileg/nodejs-cronjob-boilerplate.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cronjob",
+    "boilerplate"
+  ],
+  "author": "Luqmanul Hakim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/orgmatileg/nodejs-cronjob-boilerplate/issues"
+  },
+  "homepage": "https://github.com/orgmatileg/nodejs-cronjob-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-cron": "^2.0.3"
+  }
+}
